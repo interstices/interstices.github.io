@@ -6,7 +6,7 @@ permalink: /writings-from-the-plague/
 
 <img align="right" src="{{ site.baseurl }}/images/plague-doctor.jpg" style="width:200px; margin-left:10px; margin-bottom:20px"/>
 
-Guest contributor Ann Copestake records Cambridge life in the time of COVID-19. [Read her posts]({{site.baseurl}}/writings-from-the-plague/ann-copestake/) 
+Ann Copestake records Cambridge life in the time of COVID-19. [Read her posts]({{site.baseurl}}/writings-from-the-plague/ann-copestake/) 
 
 <hr>
 
