@@ -28,5 +28,5 @@ Eva is a philosopher, recipient of a Marie-Skłodowska-Curie-fellowship at the U
 
 <img src="../images/aurelie.jpg" height="300px" align="left" style="margin-right:10px"/>
 A.H. is a researcher in computational linguistics at the Center for Mind/Brain sciences, University of Trento (Italy). Her research group is CALM (Computational Approaches to Language and Meaning). She has a certain obsession for stories of gods-and-other-beasts creating worlds, and thus a predilection for truth-theoretic semantics. She would rather not be contacted, but if you really have to, you can find her details at [https://aurelieherbelot.net](https://aurelieherbelot.net). 
-
+<br><br>
 

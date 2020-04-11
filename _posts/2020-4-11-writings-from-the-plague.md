@@ -12,7 +12,7 @@ Ann Copestake records Cambridge life in the time of COVID-19. [Read her posts]({
 
 ### About the author
 
-[Ann Copestake](https://www.cl.cam.ac.uk/~aac10/) is Professor of Computational Linguistics at the University of Cambridge, UK. She is currently Head of the Department of Computer Science and Technology..
+[Ann Copestake](https://www.cl.cam.ac.uk/~aac10/) is Professor of Computational Linguistics at the University of Cambridge, UK. She is currently Head of the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/).
 
 <hr>
 
