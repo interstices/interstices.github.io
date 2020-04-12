@@ -25,7 +25,7 @@ This is a time of dislocation.  For the department, many things must continue - 
 
 
 
-### Working from home - 10 April 2020
+### Working from home - 9 April 2020
 
 In a way, the strangest thing is that life is not more strange.  Working from home is working from home - the chair, the laptop, the screen are grindingly familiar.  The oak desk - bought second-hand forty years ago, in this room for twenty years - perhaps this is the year I finally sand the top to remove the flaky varnish.  Through the bay window, the type and exhaust place across the road still operates with a reassuring background clatter and the occasional irritating whine.  The supermarket is busy and brightly lit at night.  The buses rumble by regularly.
 
